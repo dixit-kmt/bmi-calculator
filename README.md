@@ -10,6 +10,8 @@ git clone https://github.com/dixit-kmt/bmi-calculator.git
 ### Package Installation
 ```bash
 cd /path-to-repo/bmi-calculator #replace path
+```
+```bash
 npm install express
 ```
 ### Execution
